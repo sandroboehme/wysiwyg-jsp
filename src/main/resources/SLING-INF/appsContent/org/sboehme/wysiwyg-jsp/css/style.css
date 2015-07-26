@@ -1,0 +1,17 @@
+.col-md-4 {
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	min-height: 50px;	
+}
+
+#page-preview, .sidebar-container {
+	border: 1px solid black;
+	border-radius: 5px;
+}
+.component-stock {
+	display: none;
+}
+
+#page-preview {
+	padding: 50px 50px;
+}
